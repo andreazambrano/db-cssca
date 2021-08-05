@@ -47,6 +47,14 @@
     "dataSource": "db",
     "public": true
   },
+  "brand": {
+    "dataSource": "db",
+    "public": true
+  },
+"category": {
+    "dataSource": "db",
+    "public": true
+  },
   "book": {
     "dataSource": "db",
     "public": true
